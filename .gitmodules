@@ -4,3 +4,6 @@
 [submodule "lock"]
 	path = lock
 	url = https://github.com/hyppenny/lock
+[submodule "dir"]
+	path = dir
+	url = https://github.com/hyppenny/dir
