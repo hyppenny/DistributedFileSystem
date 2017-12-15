@@ -1,3 +1,6 @@
 [submodule "FileAccess"]
 	path = FileAccess
 	url = https://github.com/hyppenny/FileAccess
+[submodule "lock"]
+	path = lock
+	url = https://github.com/hyppenny/lock
