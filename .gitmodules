@@ -7,3 +7,6 @@
 [submodule "dir"]
 	path = dir
 	url = https://github.com/hyppenny/dir
+[submodule "cache"]
+	path = cache
+	url = https://github.com/hyppenny/cache
