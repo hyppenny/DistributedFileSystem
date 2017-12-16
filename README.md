@@ -9,3 +9,5 @@ Directory: Function: View folder, rename folder, add folder and delete folder
 Lock Service: Function: Lock the file using and unlock the file
 
 First, start the server, the client can assess file and folder on server.
+
+The implementation is done by many seraching online and disscuing with others.
